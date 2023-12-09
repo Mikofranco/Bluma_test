@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgb(29, 28, 28);
+    color: #dedcdc;
+    height: 20rem;
+    list-style: none;
+    font-size: larger;
+    text-align: center;
+    padding: 3rem ;
+    margin-top: 2rem;
+}
+.footer span{
+    background-color: rgb(129, 52, 201);
+    padding: 5px;
+    border-radius: 50%;
+}
+.footer img{
+    color: white;
+}
+.footer .link {
+    display: flex;
+    border: 2px solid yellow;
+}
