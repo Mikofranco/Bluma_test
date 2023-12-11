@@ -1,10 +1,10 @@
-.tour{
-    height: 40rem;
-    color: white;
-    background-color: rgb(221, 217, 217);
+.tour {
+  height: 40rem;
+  color: white;
+  background-color: rgb(221, 217, 217);
 }
-.tour .container{
-    display: flex;
+.tour .container {
+  display: flex;
 }
 /* .tour .image-area{
     height: 40rem;
@@ -12,3 +12,8 @@
 .tour .image-area img{
     height: 100%;
 } */
+@media (max-width: 700px) {
+  .tour {
+    display: none;
+  }
+}

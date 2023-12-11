@@ -16,3 +16,11 @@
     background-color: rgb(129, 52, 201);
     
 }
+@media (max-width:1550px) {
+    .add-article button{
+        font-size: 18px;
+    }
+    .add-article img{
+        height: 20px;
+    }
+}

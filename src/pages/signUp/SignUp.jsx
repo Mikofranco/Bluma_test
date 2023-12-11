@@ -12,7 +12,7 @@ function SignUp() {
             <button>Login</button>
             <button>Sign in</button>
           </div>
-          .
+          
         </div>
       </div>
     </div>

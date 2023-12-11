@@ -1,5 +1,5 @@
 import React from 'react'
-import tourPic from "../assets/tour2.jpg"
+import tourPic from "../assets/tour3.jpg"
 import "./Tour.css"
 
 function Tour() {
@@ -10,7 +10,7 @@ function Tour() {
                 <h1>Take a tour </h1>
             </div>
             <div className="img-area">
-                <img src={tourPic} alt="" style={{height:"40rem"}}/>
+                {/* <img src={tourPic} alt="" style={{height:"40rem"}}/> */}
             </div>
         </div>
     </div>
